@@ -96,6 +96,7 @@ Execute the program
     </body>
 </html>
 ```
-# OUPUT
+
+## OUPUT
 
 ![time table](https://user-images.githubusercontent.com/113497491/213734674-9d817615-0041-4135-b363-da1e1a828ee9.png)
